@@ -1,0 +1,13 @@
+keybind = super+right=next_tab
+keybind = super+left=previous_tab
+
+theme = catppuccin-macchiato
+macos-option-as-alt = true
+macos-titlebar-style = transparent
+
+scrollback-limit = 500000000
+
+font-family = "ZedMono Nerd Font Mono"
+font-size = 15
+
+window-padding-x = 5
