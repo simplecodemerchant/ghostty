@@ -13,7 +13,7 @@ font-size = 16
 
 window-padding-x = 5
 
-working-directory = home
+working-directory = inherit
 window-inherit-working-directory = false
 
 clipboard-paste-protection = false
