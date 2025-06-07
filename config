@@ -8,6 +8,6 @@ macos-titlebar-style = transparent
 scrollback-limit = 500000000
 
 font-family = "ZedMono Nerd Font Mono"
-font-size = 15
+font-size = 16
 
 window-padding-x = 5
